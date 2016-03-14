@@ -1,0 +1,28 @@
+{
+  "name": "jf-motion",
+  "version": "0.0.1",
+  "main": "motion.js",
+  "description": "mobile motion",
+  "author": [
+    {
+      "name": "yuancongcong",
+      "email": "772610229@qq.com"
+    }
+  ],
+  "keywords": [
+    "angularjs",
+    "motion"
+  ],
+  "ignore": [
+    "**/.*",
+    "*.yml",
+    "*.xml",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "motion": "https://github.com/JY-Shared/motion.git"
+  }
+}
